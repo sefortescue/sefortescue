@@ -1,6 +1,5 @@
 - Hi, I am Sam. Sam I am. I do not like green eggs and ham. I also don't like normal eggs and ham.
 - I’m especially interested in computer intensive statistics.
-- I’m currently learning about writing good stories :)
 
 <!---
 sefortescue/sefortescue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
