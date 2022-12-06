@@ -1,4 +1,4 @@
-- Hi, I am Sam. Sam I am. I do not like green eggs and ham. I also don't like normal eggs and ham.
+- Hi, I am Sam. Sam I am. I do not like green eggs and ham. I also don't like normal eggs and ham. Actually just ham.
 - I’m especially interested in computer intensive statistics.
 
 <!---
